@@ -15,6 +15,6 @@ Wake up those dead meme coins by sending them to the Cemetery of Memes! Why sit 
 - Decimals: 9  
 - Token Type: SPL (Solana Program 
 
-cemetery-of-memes/
-  └── assets/
-      └── logo.png
+## Project Logo
+
+![CEME Logo](https://github.com/ODDMAFIA/cemetery-of-memes/blob/main/assets/logo.png?raw=true)
