@@ -13,7 +13,8 @@ Wake up those dead meme coins by sending them to the Cemetery of Memes! Why sit 
 
 ## Token Info  
 - Decimals: 9  
-- Token Type: SPL (Solana Program Library)  
+- Token Type: SPL (Solana Program 
 
-## Logo  
-https://cdn.dexscreener.com/cms/images/GBmh-2JzEuQLhN60
+cemetery-of-memes/
+  └── assets/
+      └── logo.png
