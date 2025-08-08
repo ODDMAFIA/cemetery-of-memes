@@ -16,4 +16,4 @@ Wake up those dead meme coins by sending them to the Cemetery of Memes! Why sit 
 - Token Type: SPL (Solana Program Library)  
 
 ## Logo  
-Located in the `assets/` folder.
+https://cdn.dexscreener.com/cms/images/GBmh-2JzEuQLhN60
