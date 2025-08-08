@@ -17,4 +17,4 @@ Wake up those dead meme coins by sending them to the Cemetery of Memes! Why sit 
 
 ## Project Logo
 
-![CEME Logo](https://github.com/ODDMAFIA/cemetery-of-memes/blob/main/assets/logo.png?raw=true)
+![CEME Logo](https://github.com/ODDMAFIA/cemetery-of-memes/blob/main/assets/https://i.imgur.com/8jiumt7.png
